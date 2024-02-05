@@ -1,0 +1,29 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\zinaa\Desktop\Cj Shenanigans\JAVA_buildversions\Simple 3D Renderer\3D Simple Renderer.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\zinaa\Desktop\Cj Shenanigans\JAVA_buildversions\Simple 3D Renderer\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\mingw64\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\zinaa\AppData\Local\Programs\Python\Launcher\;C:\Users\zinaa\AppData\Local\Microsoft\WindowsApps;C:\Users\zinaa\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\mingw64\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\zinaa\AppData\Roaming\npm;C:\Program Files\Java\jre-1.8\legal\jdk;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\mingw64\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\zinaa\AppData\Local\Programs\Python\Launcher\;C:\Users\zinaa\AppData\Local\Microsoft\WindowsApps;C:\Users\zinaa\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\mingw64\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\zinaa\AppData\Roaming\npm;C:\Program Files\Java\jre-1.8\legal\jdk;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zinaa\Desktop\Cj Shenanigans\JAVA_buildversions\Simple 3D Renderer\3D Simple Renderer.exe"
+Args length:	105/32768 chars
+Exit code:	0
