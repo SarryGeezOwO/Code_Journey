@@ -3,7 +3,7 @@
 </h1>
 
 <p>This repository contains all challenges I took on with or without help. I'm still young and novice when it comes to programming and making algorithms.
-So I hope in the future i can confindetly create complex programs and Algorithms. I particularly am interested in 3D engines and how it works in full detail.
+So I hope in the future i can confindently create complex programs and Algorithms. I particularly am interested in 3D engines and how it works in full detail.
 I also like doing simulations.</p>
 
 <h3>details :</h3>
