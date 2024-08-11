@@ -13,6 +13,9 @@
 * <b>ChatGPT</b> - for getting a easy to understand analogies and provide some informations I have to look up in the internet for more details.
 * <b>NotePad</b> - for writing important details on the lessons I learned. I personally use my self-made notepad for funsies.
 * <b>JDoodle</b> - for quick code and to see results without creating a project.
+* <b>IntelliJ IDEA</b> - my most used IDE for java
+* <b>VsCode</b> - my IDE for Go
+* <b>Postman</b> - for testing my Java Springboot programs
 
 
 <br>
